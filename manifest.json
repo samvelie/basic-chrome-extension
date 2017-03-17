@@ -1,14 +1,14 @@
 {
   "manifest_version": 2,
 
-  "name": "Sam Chrome Extension",
-  "description": "This extension is Sam testing things",
+  "name": "Chrome Extension for Phi Cohort",
+  "description": "This extension is basic.",
   "version": "1.0",
 
   "browser_action": {
     "default_icon": "phirephiter.png",
     "default_popup": "popup.html",
-    "default_title": "Sam's extension!"
+    "default_title": "Click on me!!!"
   }
 
 }
