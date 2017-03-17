@@ -1,6 +1,6 @@
 var myApp = angular.module('myApp', []);
 
-myApp.controller('AppController', ['$http', function($http) {
+myApp.controller('AppController', [function() {
   console.log('app controller running');
   var self = this;
 
